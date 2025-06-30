@@ -27,5 +27,17 @@ Stellar Brace es una órtesis robótica diseñada para mejorar la calidad de vid
 ![StellarBrace](images/DiagramaBloquesCircuito.png)
 *Figura 1. Diagrama de Bloques del Funcionamiento*
 
+![BodePA](images/BodePA.png)
+*Figura 2. Diagrama de Bode FPA*
+
+![BodePB](images/BodePB.png)
+*Figura 3. Diagrama de Bode FPB*
+
+![BodeN](images/BodeNotch.pn)
+*Figura 4. Diagrama de Bode Notch*
+
+![BodeN](images/EMG.png)
+*Figura 5. Señal EMG Adquirida*
+
 ## 📜 Licencia
 Este proyecto está bajo la licencia [MIT](LICENSE).  
