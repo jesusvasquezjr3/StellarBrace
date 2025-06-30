@@ -15,7 +15,7 @@ Este directorio contiene archivos de diseño CAD del sistema **Stellar Brace**, 
 
 ## Instrucciones de Visualización  
 1. **Requisitos**:  
-   - SolidWorks 2022 o superior.  
+   - SolidWorks 2024 o superior.  
    - Opción "Solo lectura" activada (evitar modificaciones).  
 
 2. **Recomendaciones**:  
