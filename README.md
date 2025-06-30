@@ -8,6 +8,8 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-292929?style=for-the-badge&logo=https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg&logoColor=white)
 
 ## Descripción del Proyecto
+![Stellar Brace](images/StellarBrace.gif)
+
 Stellar Brace es una órtesis robótica diseñada para mejorar la calidad de vida de pacientes con disfunción motora en la articulación del codo. Este proyecto multidisciplinario integra tecnologías de bioinstrumentación, procesamiento de señales EMG, manufactura aditiva y sistemas de control para ofrecer una solución innovadora en terapia de rehabilitación y asistencia motora.
 
 ## Características Principales
