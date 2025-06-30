@@ -23,5 +23,9 @@ Stellar Brace es una órtesis robótica diseñada para mejorar la calidad de vid
 
 *Tecnológico de Monterrey, Campus Ciudad de México - Biohack 2025*
 
+## Funcionamiento
+![StellarBrace](images/DiagramaBloquesCircuito.png)
+*Figura 1. Diagrama de Bloques del Funcionamiento*
+
 ## 📜 Licencia
 Este proyecto está bajo la licencia [MIT](LICENSE).  
